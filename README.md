@@ -12,7 +12,7 @@ More details of the project can bee see [here](https://carolhechuanxiuyue.github
 - Random Forest
 
 ## key functions
-- Data preprocessing
+- Spatial data preprocessing
 - Heatmap
 - Trajectory smoothing (path discretization)
 - Trajectory representation development
