@@ -8,9 +8,10 @@ More details of the project can bee see [here](https://carolhechuanxiuyue.github
 - Python
 
 ## algorithm
+- Decision Tree based on domain knowledge
 - Random Forest
 
 ## key functions
 - Heatmap
-- Trajectory smoothing
+- Trajectory smoothing (path discretization)
 - Spatial similarity measures
