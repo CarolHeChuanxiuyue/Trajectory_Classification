@@ -1,6 +1,6 @@
 # Trajectory_Classification
 
-This project is used to visualize and classify spatial trajectories taken by 395 participants navigating in a virtual maze.
+This project is about visualizing and classifying spatial trajectories taken by 395 participants navigating in a virtual maze.
 
 More details of the project can bee see [here](https://carolhechuanxiuyue.github.io/Trajectory_Classification/)
 
@@ -12,6 +12,8 @@ More details of the project can bee see [here](https://carolhechuanxiuyue.github
 - Random Forest
 
 ## key functions
+- Data preprocessing
 - Heatmap
 - Trajectory smoothing (path discretization)
+- Trajectory representation development
 - Spatial similarity measures
